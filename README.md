@@ -6,7 +6,7 @@
 
 ## Demo
 
-[AIAPP](https://aisqlgenerator.netlify.app)
+[AIAPP]([https://aisqlgenerator.netlify.app](https://ai-text-to-sql-query.onrender.com/))
 
 ---
 
